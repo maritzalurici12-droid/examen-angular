@@ -57,3 +57,21 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+## CSS Framework elegido
+
+Para este proyecto se eligió **Bootstrap 5.3** como framework de estilos.
+
+### Razones de la elección:
+- Permite prototipar rápido con componentes ya listos.
+- Diseño responsive integrado sin configuración extra.
+- Gran compatibilidad con Angular.
+
+
+## Template utilizado
+
+Se utilizó el template gratuito **Creative** de [Start Bootstrap](https://startbootstrap.com/theme/creative).
+
+### Licencia
+Este template está bajo licencia **MIT**, lo que permite usarlo, modificarlo y distribuirlo libremente.
